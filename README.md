@@ -1,2 +1,2 @@
 # G02_beadando
-A beadanfót Pintér Gabriellsz (DSZ978) és Szabó Eszter(neptunkód?) készítette
+A beadandót Pintér Gabriella (DSZ978) és Szabó Eszter(neptunkód?) készítette.
